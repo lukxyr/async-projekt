@@ -2881,19 +2881,6 @@ a {
     -ms-flex-align: center;
     align-items: center;
   }
-<<<<<<< HEAD
-=======
-  .software-app-devel {
-    width: 100%;
-    height: 200px;
-    -webkit-transition-property: none;
-    transition-property: none;
-  }
-  .product-marketing {
-    width: 100%;
-    height: 200px;
-  }
->>>>>>> 5b9bc38fd1c129e4751a1c0d614c63f366b33ff3
   .contacts {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -2915,15 +2902,12 @@ a {
   .div-block-5 {
     width: auto;
   }
-<<<<<<< HEAD
   .cta-article {
     width: 100%;
     height: 200px;
     -webkit-transition-property: none;
     transition-property: none;
   }
-=======
->>>>>>> 5b9bc38fd1c129e4751a1c0d614c63f366b33ff3
 }
 
 #w-node-e9e08a60b8b5-45080004 {
